@@ -360,8 +360,10 @@ C:
   color: "#555555"
   extensions:
   - .c
+  - .C
   - .cats
   - .h
+  - .H
   - .idc
   - .w
   interpreters:
@@ -389,12 +391,14 @@ C++:
   aliases:
   - cpp
   extensions:
-  - .cpp
+  - .C
   - .c++
   - .cc
   - .cp
+  - .cpp
   - .cxx
   - .h
+  - .H
   - .h++
   - .hh
   - .hpp
